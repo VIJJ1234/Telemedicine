@@ -59,8 +59,8 @@ The project is organized into the following main folders:
 
 - Frontend: React.js
 - Backend: Node.js, Express.js
-- Database: MongoDB
-- Authentication: JWT
+- Database: Mysql
+- Authentication: JWT,bcrypt,axios,middleware.
 
 ---
 
