@@ -66,4 +66,4 @@ The project is organized into the following main folders:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT-License](LICENSE).
